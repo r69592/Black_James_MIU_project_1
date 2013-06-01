@@ -1,0 +1,36 @@
+/*
+
+	Search.html Style sheet
+	Created By James Black
+	MIU: 1306
+
+*/
+body {
+	background-color: black;
+}
+
+#bg {
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+
+    
+    
+
+    
+}
+nav {
+	text-align: center;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+ul, li {
+	color: #ffff00;
+}
+
+
+
