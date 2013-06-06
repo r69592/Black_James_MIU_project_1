@@ -1,8 +1,7 @@
 /*
 
 James Black
-VFW : 1305
-Project 3
+MIU : 1306
 
 */
 window.addEventListener("DOMContentLoaded", function() {
